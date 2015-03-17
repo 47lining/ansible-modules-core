@@ -103,6 +103,7 @@ tasks:
 
 import json
 import time
+import sys
 
 try:
     import boto
